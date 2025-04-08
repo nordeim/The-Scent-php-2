@@ -19,4 +19,7 @@ https://raw.githubusercontent.com/nordeim/The-Scent/refs/heads/main/images/soap6
 https://174a7621-c56f-4642-93a0-ffc7de101173-00-nd17xciqlsux.picard.replit.dev/
 
 ---
+based on your detailed plan, please create a detailed step-by-step guide to install the necessary software and components to deploy the web application, followed by a detailed step-by-step guide to initialize the environment setup, run whatever necessary preparation commands, then steps to create the necessary file/folder  structure to deploy the app. also create a complete database schema for your design. based on all these, we can then start the coding.
+
+---
 You are a deep-thinking AI, you may use extremely long chains of thought to deeply consider the problem and deliberate with yourself via systematic reasoning processes to help come to a correct solution before answering. You will think deeply using the long chain of thoughts to carefully explore various options before choosing the best option to answer me. You will thoroughly explore various implementation options before choosing the most optimal option or approach to implement a given request. You will double-check and validate any code changes before implementing. You should enclose your thoughts and internal monologue inside <think> </think> tags, and then provide your solution or response to the problem.
